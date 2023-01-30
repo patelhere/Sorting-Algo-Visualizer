@@ -2,7 +2,7 @@
   "name": "sortingalgo-master",
   "version": "1.0.0",
   "description": "Sorting Algorithm Visualizer (Bubble, Selection, Insertion, Merge, Quick, Heap)",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
